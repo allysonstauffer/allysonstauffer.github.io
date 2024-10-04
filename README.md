@@ -1,3 +1,2 @@
 # Ally's Personal Website
-This is a personal website built using the Hack4Impact Starter Pack!
-I'm a first year studying computer science at Cal Poly. I'm looking forward to adding to this website!
+]I built this website using Cal Poly SLO Hack 4 Impact's Starter Kit. In this website, you can find my resume, portfolio, and some facts about me. I'm looking forward to adding to this website!
