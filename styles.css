@@ -107,6 +107,13 @@ footer {
   color: #ffffff;
 }
 
+.section-title {
+  text-align: center;
+  padding: 1px;
+  background-color: #000000;
+  color: #ffffff;
+}
+
 h1 {
   text-align: center;
   color: #ffffff;
