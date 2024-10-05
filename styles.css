@@ -11,17 +11,21 @@ html {
     background: transparent;
     color: #e0d6f5;
     box-shadow: 0 0 0 3px #000000 inset;
-    :hover{
-        transform: translateY(-2px);
-    }
 }
 
-img {
+.small {
     .center {
         display: block;
       }
-      width: 833px;
-      height: 500px;
+      width: 20px;
+}
+
+.big {
+  .center {
+    display: block;
+  }
+  width: 833px;
+  height: 500px;
 }
 
 ul {
@@ -52,6 +56,9 @@ ul {
   
   li {
     float: left;
+    :hover{
+      transform: translateY(-2px);
+  }
   }
   
   li a {
@@ -60,19 +67,19 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    :hover{
+      transform: translateY(-2px);
+  }
   }
   
-  /* Change the link color to #111 (black) on hover */
+
   li a:hover {
     background-color: #111;
+    transform: translateY(-2px);
   }
 
 body {
   background-color: rgb(44, 62, 80);
-}
-  
-p {
-  text-color
 }
 
 /* Styles for the about-me section */
