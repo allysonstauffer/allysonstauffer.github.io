@@ -164,3 +164,22 @@ p {
 h1, h2, h3 {
   line-height: 1.3; /* Slightly smaller for headings */
 }
+
+
+body {
+  font-family: 'Roboto', sans-serif; /* Set the font for the entire body */
+}
+
+input, textarea {
+  font-family: 'Roboto', sans-serif; 
+  font-size: 16px;
+}
+
+/* Style for placeholders */
+input::placeholder, textarea::placeholder {
+  font-family: 'Roboto', sans-serif;
+  color: #ccc;
+  opacity: 1;
+}
+
+/* Additional CSS for other styles (navbar, footer, etc.) */
