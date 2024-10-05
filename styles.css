@@ -10,7 +10,7 @@ html {
     line-height: 1;
     transition: transform 200ms,background 200ms;
     background: transparent;
-    color: #000000;
+    color: #e0d6f5;
     box-shadow: 0 0 0 3px #000000 inset;
     :hover{
         transform: translateY(-2px);
@@ -68,6 +68,10 @@ ul {
     background-color: #111;
   }
 
-  .active {
-    background-color: #04AA6D;
-  }
+body {
+  background-color: rgb(44, 62, 80);
+}
+  
+p {
+  text-color
+}
