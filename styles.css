@@ -79,14 +79,14 @@ ul {
   }
 
 body {
-  background-color: rgb(44, 62, 80);
+  background-color: rgb(71, 71, 71);
 }
 
 /* Styles for the about-me section */
 .about-me {
   padding: 20px;
   margin: 10px;
-  background-color: #34495e; /* Slightly lighter than the body */
+  background-color: rgb(71, 71, 71); /* Slightly lighter than the body */
   color: white;
 }
 
@@ -94,7 +94,7 @@ body {
 .skills {
   padding: 20px;
   margin: 10px;
-  background-color: #2c3e50;
+  background-color: rgb(71, 71, 71);
   color: #ffffff;
 }
 
@@ -102,7 +102,7 @@ body {
 .projects {
   padding: 20px;
   margin: 10px;
-  background-color: #22313f;
+  background-color: rgb(71, 71, 71);
   color: #e0d6f5;
 }
 
