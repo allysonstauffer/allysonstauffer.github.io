@@ -9,7 +9,7 @@ html {
     font-weight: 700;
     line-height: 1;
     background: transparent;
-    color: #e0d6f5;
+    color: #ffffff;
     box-shadow: 0 0 0 3px #000000 inset;
 }
 
@@ -42,7 +42,7 @@ ul {
 a {
   display: block;
   padding: 8px;
-  background-color: #000000;
+  background-color: #321b83;
 }
 
 ul {
@@ -50,7 +50,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #000000;
+    background-color: #321b83;
     text-align: center;
   }
   
@@ -78,8 +78,10 @@ ul {
     transform: translateY(-2px);
   }
 
-body {
-  background-color: rgb(0, 0, 0);
+  body {
+    margin: 0; /* Ensure no default margins create a gap */
+    padding: 0;
+    background-color: black;
 }
 
 /* Styles for the about-me section */
@@ -182,7 +184,6 @@ input::placeholder, textarea::placeholder {
   opacity: 1;
 }
 
-/* Additional CSS for other styles (navbar, footer, etc.) */
 
 html {
   background-color: black;
